@@ -12,3 +12,7 @@
  Go to settings and make sure Localiapstore is on. Now make sure youtube unlimit app is not in your switcher running in the background. Now open youtube unlimit and go to the tab all the way to the right of the screen and go to subscription. 
  The option to buy premium to get rid of ads will be available. click on buy premium and then when the enter iTunes Login appears, click canel and Localiapstore will spoof the purchase and give you premium.
  I would then kill the app and make sure it is not running in the background. Relaunch app and you will have no ads now.
+ 
+ # Supported Devices that have been tested to work with this app
+ iPhone 7 iOS 11.0.1
+ iPhone 6 iOS 10.1.1

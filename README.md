@@ -1,5 +1,6 @@
 # Youtube App that allows you to watch videos with no ads, download videos, and save videos to playlists.
 
+ # Requires iPhone jailbroken with yalu102,TaiG,or Pangu9 
  How to use - Download this .ipa and get cydia impactor. Open cydia impactor and enter your itunes login, and
  the app will start to install on your device. (Needs to be re codesigned every 7 days by cydia impactor)
 
